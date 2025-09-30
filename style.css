@@ -1,10 +1,10 @@
 body {
- background-color: rgb(96, 1, 1);
+ background-color: rgb(1, 31, 96);
  color: rgb(1, 63, 1);
 }
 
 h1 {
-    border-buttom: solid 2xp rgb(66, 66, 66)
+    border-buttom: solid 2xp rgb(0, 3, 202)
     padding: 20px;s
 }
 
@@ -13,6 +13,6 @@ h1 {
 }
 
 p {
- color: black;
+ color: white;
  font-size: 16px;
 }
